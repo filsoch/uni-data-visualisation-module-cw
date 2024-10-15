@@ -1,8 +1,8 @@
 ### About
 This repository contains my university coursework project for the Data Visualisation module.
 The main goal of this project was creating 4 charts in R that all discuss the same topic and 
-contibute some extra knowledge to the subject. I've decided to create visualisations on UK's
-progress towards reaching the 2015 Paris Agreement goal of greenhouse gas emissions. The dataset
+contribute some extra knowledge to the subject. I've decided to create visualisations on UK's
+progress towards reaching the 2015 Paris Agreement goal of greenhouse gas emissions reduction. The dataset
 I've selected for this project was the World Bank Open Data, as it contains lots of open source
 data on greenhouse gas emissions. The coursework received 74% as the final mark.
 ### Charts and Explanation
